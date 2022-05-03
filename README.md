@@ -1,7 +1,7 @@
 # WBTS-Docs
 Documentación del proyecto WBTS (WiFi & Bluetooth Tracking System) de la asignatura de TIT de 4º curso de ingenieria de telecomunicación.
 
-## Arbol de directorios
+## Árbol de directorios
 
 Este proyecto está compuesto por 7 carpetas que contienen lo siguiente:
 - Actas: Actas redactadas por el equipo de trabajo.
